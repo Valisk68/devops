@@ -1,3 +1,3 @@
 #!/bin/bash
-time=$(date)
+time=$(date +"%T")
 echo "script executed at: $time"
