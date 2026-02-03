@@ -9,5 +9,5 @@
 
 x=$1
 y=$2
-z=$(x-y)
+z=$((x - y))
 echo "the value is: $z"
