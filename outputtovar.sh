@@ -1,5 +1,7 @@
 #!/bin/bash
-time=$(date +"%T")
-echo "script executed at: $time"
+start_time=$(date +"%s")
+echo "script executed at: $start_time"
 sleep 10 
-echo "script ended at: $time"
+end_time=$(date +"%s")
+total_time=$((end_time - start_time))
+echo "Total time taken by script: $total_time seconds"
