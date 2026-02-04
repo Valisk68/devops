@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Raju: Hello Mastanvali! How are you today?"
+echo "Raju: Hello Mastan! How are you today?"
 echo "Mastan: Hi Raju! I'm doing well, thank you. How about you?"
 echo "Raju: I'm great, thanks for asking! Have you finished the DevOps course?"
 echo "Mastan: Yes, I completed it last week. It was really informative."
